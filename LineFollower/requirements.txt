@@ -1,0 +1,2 @@
+git+https://github.com/mipaat/FollowerBot@835c932b5983445cb66644c03f3d1122d7742da1#egg=FollowerBot
+Pillow==8.4.0
